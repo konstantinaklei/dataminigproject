@@ -1,0 +1,375 @@
+Person ID,Age,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,Heart Rate,Daily Steps,Sleep Disorder,Systolic,Diastolic,Gender_Male,Occupation_Doctor,Occupation_Engineer,Occupation_Lawyer,Occupation_Manager,Occupation_Nurse,Occupation_Sales Representative,Occupation_Salesperson,Occupation_Scientist,Occupation_Software Engineer,Occupation_Teacher,BMI Category_Obese,BMI Category_Overweight
+1,27,6.1,6,42,6,77,4200,None,126,83,True,False,False,False,False,False,False,False,False,True,False,False,True
+2,28,6.2,6,60,8,75,10000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+3,28,6.2,6,60,8,75,10000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+4,28,5.9,4,30,8,85,3000,Sleep Apnea,140,90,True,False,False,False,False,False,True,False,False,False,False,True,False
+5,28,5.9,4,30,8,85,3000,Sleep Apnea,140,90,True,False,False,False,False,False,True,False,False,False,False,True,False
+6,28,5.9,4,30,8,85,3000,Insomnia,140,90,True,False,False,False,False,False,False,False,False,True,False,True,False
+7,29,6.3,6,40,7,82,3500,Insomnia,140,90,True,False,False,False,False,False,False,False,False,False,True,True,False
+8,29,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+9,29,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+10,29,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+11,29,6.1,6,30,8,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+12,29,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+13,29,6.1,6,30,8,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+14,29,6.0,6,30,8,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+15,29,6.0,6,30,8,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+16,29,6.0,6,30,8,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+17,29,6.5,5,40,7,80,4000,Sleep Apnea,132,87,False,False,False,False,False,True,False,False,False,False,False,False,False
+18,29,6.0,6,30,8,70,8000,Sleep Apnea,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+19,29,6.5,5,40,7,80,4000,Insomnia,132,87,False,False,False,False,False,True,False,False,False,False,False,False,False
+20,30,7.6,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+21,30,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+22,30,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+23,30,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+24,30,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+25,30,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+26,30,7.9,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+27,30,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+28,30,7.9,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+29,30,7.9,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+30,30,7.9,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+31,30,6.4,5,35,7,78,4100,Sleep Apnea,130,86,False,False,False,False,False,True,False,False,False,False,False,False,False
+32,30,6.4,5,35,7,78,4100,Insomnia,130,86,False,False,False,False,False,True,False,False,False,False,False,False,False
+33,31,7.9,8,75,4,69,6800,None,117,76,False,False,False,False,False,True,False,False,False,False,False,False,False
+34,31,6.1,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+35,31,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+36,31,6.1,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+37,31,6.1,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+38,31,7.6,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+39,31,7.6,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+40,31,7.6,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+41,31,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+42,31,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+43,31,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+44,31,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+45,31,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+46,31,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+47,31,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+48,31,7.8,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+49,31,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+50,31,7.7,7,75,6,70,8000,Sleep Apnea,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+51,32,7.5,8,45,3,70,8000,None,120,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+52,32,7.5,8,45,3,70,8000,None,120,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+53,32,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+54,32,7.6,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+55,32,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+56,32,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+57,32,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+58,32,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+59,32,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+60,32,7.7,7,75,6,70,8000,None,120,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+61,32,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+62,32,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+63,32,6.2,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+64,32,6.2,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+65,32,6.2,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+66,32,6.2,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+67,32,7.2,8,50,6,68,7000,None,118,76,True,False,False,False,False,False,False,False,False,False,False,False,False
+68,33,6.0,6,30,8,72,5000,Insomnia,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+69,33,6.2,6,50,6,76,5500,None,128,85,False,False,False,False,False,False,False,False,True,False,False,False,True
+70,33,6.2,6,50,6,76,5500,None,128,85,False,False,False,False,False,False,False,False,True,False,False,False,True
+71,33,6.1,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+72,33,6.1,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+73,33,6.1,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+74,33,6.1,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+75,33,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+76,33,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+77,33,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+78,33,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+79,33,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+80,33,6.0,6,30,8,72,5000,None,125,80,True,True,False,False,False,False,False,False,False,False,False,False,False
+81,34,5.8,4,32,8,81,5200,Sleep Apnea,131,86,False,False,False,False,False,False,False,False,True,False,False,False,True
+82,34,5.8,4,32,8,81,5200,Sleep Apnea,131,86,False,False,False,False,False,False,False,False,True,False,False,False,True
+83,35,6.7,7,40,5,70,5600,None,128,84,True,False,False,False,False,False,False,False,False,False,True,False,True
+84,35,6.7,7,40,5,70,5600,None,128,84,True,False,False,False,False,False,False,False,False,False,True,False,True
+85,35,7.5,8,60,5,70,8000,None,120,80,True,False,False,False,False,False,False,False,False,True,False,False,False
+86,35,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+87,35,7.2,8,60,4,65,5000,None,125,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+88,35,7.2,8,60,4,65,5000,None,125,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+89,35,7.3,8,60,4,65,5000,None,125,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+90,35,7.3,8,60,4,65,5000,None,125,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+91,35,7.3,8,60,4,65,5000,None,125,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+92,35,7.3,8,60,4,65,5000,None,125,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+93,35,7.5,8,60,5,70,8000,None,120,80,True,False,False,False,False,False,False,False,False,True,False,False,False
+94,35,7.4,7,60,5,84,3300,Sleep Apnea,135,88,True,False,False,True,False,False,False,False,False,False,False,True,False
+95,36,7.2,8,60,4,68,7000,Insomnia,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+96,36,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+97,36,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+98,36,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+99,36,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,True,False,False
+100,36,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,True,False,False
+101,36,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,True,False,False
+102,36,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,True,False,False
+103,36,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,True,False,False
+104,36,6.6,5,35,7,74,4800,Sleep Apnea,129,84,True,False,False,False,False,False,False,False,False,False,True,False,True
+105,36,7.2,8,60,4,68,7000,Sleep Apnea,115,75,False,False,False,False,False,False,False,False,False,False,True,False,False
+106,36,6.6,5,35,7,74,4800,Insomnia,129,84,True,False,False,False,False,False,False,False,False,False,True,False,True
+107,37,6.1,6,42,6,77,4200,None,126,83,False,False,False,False,False,True,False,False,False,False,False,False,True
+108,37,7.8,8,70,4,68,7000,None,120,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+109,37,7.8,8,70,4,68,7000,None,120,80,True,False,True,False,False,False,False,False,False,False,False,False,False
+110,37,7.4,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+111,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+112,37,7.4,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+113,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+114,37,7.4,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+115,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+116,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+117,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+118,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+119,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+120,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+121,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+122,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+123,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+124,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+125,37,7.2,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+126,37,7.5,8,60,4,70,8000,None,120,80,False,False,False,False,False,True,False,False,False,False,False,False,False
+127,38,7.3,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+128,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+129,38,7.3,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+130,38,7.3,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+131,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+132,38,7.3,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+133,38,7.3,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+134,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+135,38,7.3,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+136,38,7.3,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+137,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+138,38,7.1,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+139,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+140,38,7.1,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+141,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+142,38,7.1,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+143,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+144,38,7.1,8,60,4,68,7000,None,115,75,False,False,False,False,False,False,False,False,False,False,False,False,False
+145,38,7.1,8,60,5,68,8000,Sleep Apnea,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+146,38,7.4,7,60,5,84,3300,Sleep Apnea,135,88,False,False,False,True,False,False,False,False,False,False,False,True,False
+147,39,7.2,8,60,5,68,8000,Insomnia,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+148,39,6.5,5,40,7,80,4000,Insomnia,132,87,True,False,True,False,False,False,False,False,False,False,False,False,True
+149,39,6.9,7,50,6,75,5500,None,128,85,False,False,False,True,False,False,False,False,False,False,False,False,False
+150,39,8.0,9,80,3,67,7500,None,115,78,False,False,False,False,False,False,False,False,False,False,False,False,False
+151,39,8.0,9,80,3,67,7500,None,115,78,False,False,False,False,False,False,False,False,False,False,False,False,False
+152,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+153,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+154,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+155,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+156,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+157,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+158,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+159,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+160,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+161,39,7.2,8,60,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+162,40,7.2,8,55,6,73,7300,None,119,77,False,False,False,False,False,False,False,False,False,False,False,False,False
+163,40,7.2,8,55,6,73,7300,None,119,77,False,False,False,False,False,False,False,False,False,False,False,False,False
+164,40,7.9,8,90,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+165,40,7.9,8,90,5,68,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+166,41,7.6,8,90,5,70,8000,Insomnia,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+167,41,7.3,8,70,6,72,6200,None,121,79,True,False,True,False,False,False,False,False,False,False,False,False,False
+168,41,7.1,7,55,6,72,6000,None,125,82,True,False,False,True,False,False,False,False,False,False,False,False,True
+169,41,7.1,7,55,6,72,6000,None,125,82,True,False,False,True,False,False,False,False,False,False,False,False,True
+170,41,7.7,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+171,41,7.7,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+172,41,7.7,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+173,41,7.7,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+174,41,7.7,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+175,41,7.6,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+176,41,7.6,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+177,41,7.6,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+178,42,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+179,42,7.8,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+180,42,7.8,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+181,42,7.8,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+182,42,7.8,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+183,42,7.8,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+184,42,7.8,8,90,5,70,8000,None,130,85,True,False,False,True,False,False,False,False,False,False,False,False,False
+185,42,6.8,6,45,7,78,5000,Sleep Apnea,130,85,False,False,False,False,False,False,False,False,False,False,True,False,True
+186,42,6.8,6,45,7,78,5000,Sleep Apnea,130,85,False,False,False,False,False,False,False,False,False,False,True,False,True
+187,43,6.7,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+188,43,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+189,43,6.7,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+190,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+191,43,6.7,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+192,43,6.4,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+193,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+194,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+195,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+196,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+197,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+198,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+199,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+200,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+201,43,6.5,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+202,43,7.8,8,90,5,70,8000,Insomnia,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+203,43,7.8,8,90,5,70,8000,Insomnia,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+204,43,6.9,6,47,7,69,6800,None,117,76,True,False,True,False,False,False,False,False,False,False,False,False,False
+205,43,7.6,8,75,4,68,6800,None,122,80,True,False,True,False,False,False,False,False,False,False,False,False,True
+206,43,7.7,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+207,43,7.7,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+208,43,7.7,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+209,43,7.7,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+210,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+211,43,7.7,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+212,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+213,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+214,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+215,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+216,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+217,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+218,43,7.8,8,90,5,70,8000,None,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+219,43,7.8,8,90,5,70,8000,Sleep Apnea,130,85,True,False,True,False,False,False,False,False,False,False,False,False,False
+220,43,6.5,6,45,7,72,6000,Sleep Apnea,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+221,44,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+222,44,6.4,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+223,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+224,44,6.4,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+225,44,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+226,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+227,44,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+228,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+229,44,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+230,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+231,44,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+232,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+233,44,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+234,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+235,44,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+236,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+237,44,6.4,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+238,44,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+239,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+240,44,6.4,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+241,44,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+242,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+243,44,6.4,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+244,44,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+245,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+246,44,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+247,44,6.3,6,45,7,72,6000,Insomnia,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+248,44,6.8,7,45,7,78,5000,Insomnia,130,85,True,False,True,False,False,False,False,False,False,False,False,False,True
+249,44,6.4,6,45,7,72,6000,None,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+250,44,6.5,6,45,7,72,6000,None,130,85,True,False,False,False,False,False,False,True,False,False,False,False,True
+251,45,6.8,7,30,6,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+252,45,6.8,7,30,6,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+253,45,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+254,45,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+255,45,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+256,45,6.5,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+257,45,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+258,45,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+259,45,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+260,45,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+261,45,6.6,7,45,4,65,6000,Insomnia,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+262,45,6.6,7,45,4,65,6000,None,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+263,45,6.6,7,45,4,65,6000,None,135,90,False,False,False,False,False,False,False,False,False,False,True,False,True
+264,45,6.9,7,55,5,75,5500,None,125,82,False,False,False,False,True,False,False,False,False,False,False,False,True
+265,48,7.3,7,65,5,83,3500,Insomnia,142,92,True,True,False,False,False,False,False,False,False,False,False,True,False
+266,48,5.9,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+267,48,7.3,7,65,5,83,3500,Insomnia,142,92,True,True,False,False,False,False,False,False,False,False,False,True,False
+268,49,6.2,6,90,8,75,10000,None,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+269,49,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+270,49,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+271,49,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+272,49,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+273,49,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+274,49,6.2,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+275,49,6.2,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+276,49,6.2,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+277,49,8.1,9,85,3,86,3700,Sleep Apnea,139,91,True,True,False,False,False,False,False,False,False,False,False,True,False
+278,49,8.1,9,85,3,86,3700,Sleep Apnea,139,91,True,True,False,False,False,False,False,False,False,False,False,True,False
+279,50,6.1,6,90,8,75,10000,Insomnia,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+280,50,8.3,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+281,50,6.0,6,90,8,75,10000,None,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+282,50,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+283,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+284,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+285,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+286,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+287,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+288,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+289,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+290,50,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+291,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+292,50,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+293,50,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+294,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+295,50,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+296,50,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+297,50,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+298,50,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+299,51,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+300,51,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+301,51,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+302,51,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+303,51,7.1,7,55,6,72,6000,None,125,82,False,False,False,False,False,True,False,False,False,False,False,False,False
+304,51,6.0,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+305,51,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+306,51,6.1,6,90,8,75,10000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+307,52,6.5,7,45,7,72,6000,Insomnia,130,85,False,False,False,False,False,False,False,False,False,False,False,False,True
+308,52,6.5,7,45,7,72,6000,Insomnia,130,85,False,False,False,False,False,False,False,False,False,False,False,False,True
+309,52,6.6,7,45,7,72,6000,Insomnia,130,85,False,False,False,False,False,False,False,False,False,False,False,False,True
+310,52,6.6,7,45,7,72,6000,Insomnia,130,85,False,False,False,False,False,False,False,False,False,False,False,False,True
+311,52,6.6,7,45,7,72,6000,Insomnia,130,85,False,False,False,False,False,False,False,False,False,False,False,False,True
+312,52,6.6,7,45,7,72,6000,Insomnia,130,85,False,False,False,False,False,False,False,False,False,False,False,False,True
+313,52,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+314,52,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+315,52,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+316,53,8.3,9,30,3,65,5000,Insomnia,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+317,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+318,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+319,53,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+320,53,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+321,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+322,53,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+323,53,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+324,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+325,53,8.3,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+326,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+327,53,8.3,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+328,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+329,53,8.3,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+330,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+331,53,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+332,53,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+333,54,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+334,54,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+335,54,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+336,54,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+337,54,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+338,54,8.4,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+339,54,8.5,9,30,3,65,5000,None,125,80,False,False,True,False,False,False,False,False,False,False,False,False,False
+340,55,8.1,9,75,4,72,5000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+341,55,8.1,9,75,4,72,5000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+342,56,8.2,9,90,3,65,10000,None,118,75,False,True,False,False,False,False,False,False,False,False,False,False,False
+343,56,8.2,9,90,3,65,10000,None,118,75,False,True,False,False,False,False,False,False,False,False,False,False,False
+344,57,8.1,9,75,3,68,7000,None,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+345,57,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+346,57,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+347,57,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+348,57,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+349,57,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+350,57,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+351,57,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+352,57,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+353,58,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+354,58,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+355,58,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+356,58,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+357,58,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+358,58,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+359,59,8.0,9,75,3,68,7000,None,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+360,59,8.1,9,75,3,68,7000,None,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+361,59,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+362,59,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+363,59,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+364,59,8.2,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+365,59,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+366,59,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+367,59,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+368,59,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+369,59,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+370,59,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+371,59,8.0,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+372,59,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+373,59,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
+374,59,8.1,9,75,3,68,7000,Sleep Apnea,140,95,False,False,False,False,False,True,False,False,False,False,False,False,True
